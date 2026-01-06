@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Finanças Conversacionais</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>💬 Meu Agente Financeiro</h1>
+  </header>
+
+  <main>
+    <!-- Chat -->
+    <section id="chat">
+      <div id="messages"></div>
+      <div id="input-area">
+        <input type="text" id="userInput" placeholder="Digite: 'Gastei R$ 30 no mercado'">
+        <button onclick="sendMessage()">Enviar</button>
+      </div>
+    </section>
+
+    <!-- Metas -->
+    <section id="goals">
+      <h2>🎯 Minhas Metas</h2>
+      <div id="goalProgress"></div>
+      <input type="text" id="goalInput" placeholder="Ex: Economizar R$500 até fim do mês">
+      <button onclick="setGoal()">Definir Meta</button>
+    </section>
+
+    <!-- Relatórios -->
+    <section id="reports">
+      <h2>📊 Relatórios</h2>
+      <canvas id="reportChart" width="400" height="200"></canvas>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
