@@ -85,9 +85,9 @@ Relatórios com gráficos
 Navegação simples e intuitiva
    
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?  Navegação simples e intuitiva 
+  - O que não funcionou como o esperado?  Navegação simples, intuitiva e ketas
+  - O que aprendeu sobre conversar com IAs? Algumas limitações que ele tem, mas é interessante, o agente é bom auxiliador, mas não teria coragem de colocar dados reais, só fictícios, mas futuramente terá uma grande parte que vai usá-lo e esquecendo da segurança e de seus dados pessoais é um pouco complexto, pois não sabemos o que vai ser o futuro... :?
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
