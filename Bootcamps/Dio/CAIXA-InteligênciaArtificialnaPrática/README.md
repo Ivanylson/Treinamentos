@@ -76,6 +76,8 @@ No README do seu repositório, inclua:
 - Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;
 - <img width="861" height="704" alt="image" src="https://github.com/user-attachments/assets/fc1814f0-a8ab-41f5-9ac0-d3b168e090b5" />
+
+E tem também do copilot e interessante é web
   
 - Um resumo do que o seu **App de Finanças Pessoais** faz;
 
