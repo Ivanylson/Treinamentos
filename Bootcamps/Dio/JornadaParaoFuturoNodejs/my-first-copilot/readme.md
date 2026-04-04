@@ -71,6 +71,8 @@ Funciona quase como um **tutor particular**.
 
 📄 **Prompt:** [prompts/prompt-study.md](prompts/prompt-study.md)
 
+Observação do Ivo:
+E interessante fazer mais módulos com Debugger, Testes, Segurança e correlacionados...
 ---
 
 # 🧠 Resumo mental rápido
